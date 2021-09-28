@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "udX8fDd2dEHdew1U6bwoSJYSj/l3sPWF1WJZoLB4ETjRNOf1D9BJDu8pJhekLmj2uWj9Afdu33wa/ntWx6xBZA==",
+  "success": true,
+  "projectFilePath": "D:\\Archivos Samuel\\Drive\\Cursos\\Desarrollo Software - MinTic\\Ciclo 3\\Desarrollo de software\\Actividad Moodle\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
